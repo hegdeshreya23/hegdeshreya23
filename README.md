@@ -1,12 +1,9 @@
-
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Shreya Hegde</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <a href="https://twitter.com/shreyahegde23" target="blank"><img src="https://img.shields.io/twitter/follow/shreyahegde23?logo=twitter&style=for-the-badge" alt="shreyahegde23" /></a> </p>
-
-- 🔭 I’m currently working on **Health-analytics on the MIMIC database**
+- 🔭 I’m currently working on **Health-analytics on the MIMIC-IV dataset**
 
 - 🌱 I’m currently learning **Flask, BigQuery**
 
